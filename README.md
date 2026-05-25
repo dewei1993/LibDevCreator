@@ -26,7 +26,7 @@ If an idea can help the library community, chances are I'll build it and share i
 - HTML5 / CSS3
 - MongoDB / MySQL
 - PHP / Laravel
-- Python
+- Python / Django
 - AWS / Netlify / Vercel / Render
 
 ---
