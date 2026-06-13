@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there!
 
 I'm **Darwin**, a licensed librarian and web developer passionate about building modern applications for library science, cataloging, and digital information services.
 I design and develop open-source tools that help librarians, students, researchers, and libraries improve access to knowledge through technology.
@@ -6,18 +6,18 @@ If an idea can help the library community, chances are I'll build it and share i
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- 📖 Library Database Applications
-- 🏛️ Cataloging & Classification Tools
-- 🔎 Athor Cutter-Sanborn Generator App
-- 🌐 Full Stack Web Development
-- ⚡ Open Source Projects
-- 🎨 UI/UX for Library Systems
+- Library Database Applications
+- Cataloging & Classification Tools
+- Athor Cutter-Sanborn Generator App
+- Full Stack Web Development
+- Open Source Projects
+- UI/UX for Library Systems
   
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Vue.js / React
 - JavaScript / Node.js
@@ -31,21 +31,21 @@ If an idea can help the library community, chances are I'll build it and share i
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### 📚 Author Cutter-Sanborn Generator
+### Author Cutter-Sanborn Generator
 An open-source web application designed especially for librarians, catalogers, and libraries.
 
 🔗 https://author-cutter-sanborn-generator.netlify.app/
 
-### 📚 Library Website
+### Library Website
 A public library website featuring the library servcies and searchable collections
 
 🔗 https://sklpublib.netlify.app/
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 - Building smarter library tools
 - AI-powered classification systems
@@ -55,16 +55,16 @@ A public library website featuring the library servcies and searchable collectio
 
 ---
 
-## 🎯 Fun Facts
+## Fun Facts
 
-- 📚 Librarian by profession, developer by passion
-- 💡 I enjoy creating tools that solve real library problems
-- 🌐 I love open-source communities
-- ☕ Coding + library science = perfect combination
+- Librarian by profession, developer by passion
+- I enjoy creating tools that solve real library problems
+- I love open-source communities
+- Coding + library science = perfect combination
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/
 - Portfolio: Coming Soon
